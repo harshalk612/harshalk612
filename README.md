@@ -1,4 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403)]
+![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403)
 <h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
 <h3 align="center">Self-motivated Student and Technology Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
