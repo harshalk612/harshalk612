@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/54WbxFa.jpeg)
 <h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
-<h3 align="center">A Self-Motiavted student and Tech Enthusiast willing to tackle any task with attention to
-                detail while simultaneously making a positive impact on society</h3>
+<h3 align="center"Tech Enthusiast willing to tackle any task with attention to
+                detail.</h3>
                 
                 
                 
