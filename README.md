@@ -2,6 +2,7 @@
 <h3 align="center">Self-motivated Student and Technology Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **Alpha 1.0: A Virtual Assistant**
 
