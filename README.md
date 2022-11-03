@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'am Harshal Kakaiya</h1>
-<h3 align="center">A Tech Enthusiast willing to tackle any task with attention to detail while simultaneously making a positive impact on society.</h3>
+<h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
+<h3 align="center">Self-motivated Student and Technology Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalk612" alt="harshalk612" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/harshal_k06" target="blank"><img src="https://img.shields.io/twitter/follow/harshal_k06?logo=twitter&style=for-the-badge" alt="harshal_k06" /></a> </p>
 
 - 🔭 I’m currently working on **Alpha 1.0: A Virtual Assistant**
 
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **harshalkakaiya61@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://novoresume.com/editor/resume/48985900-51f3-11ed-b0fb-2338d664916c)
+- 📄 Know about my experiences [https://novoresume.com/editor/resume/48985900-51f3-11ed-b0fb-2338d664916c](https://novoresume.com/editor/resume/48985900-51f3-11ed-b0fb-2338d664916c)
 
 - ⚡ Fun fact **I sleep 26 hours in a day !! ;(**
 
