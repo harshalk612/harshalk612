@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/54WbxFa.jpeg)
 <h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
-<h3 align="center">A Tech Enthusiast willing to tackle any task with attention to detail.</h3><br>
+<h3 align="center">A Technology Enthusiast willing to tackle any task with attention to detail.</h3><br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
