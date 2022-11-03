@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
+<h1 align="center">Hi 👋, I'am Harshal Kakaiya</h1>
 <h3 align="center">A Tech Enthusiast willing to tackle any task with attention to detail while simultaneously making a positive impact on society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
