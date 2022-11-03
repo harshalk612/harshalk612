@@ -1,10 +1,7 @@
 ![MasterHead](https://i.imgur.com/54WbxFa.jpeg)
 <h1 align="center">Hi 👋, I'm Harshal Kakaiya</h1>
-<h3 align="center"Tech Enthusiast willing to tackle any task with attention to
-                detail.</h3>
-                
-                
-                
+<h3 align="center">A Tech Enthusiast willing to tackle any task with attention to detail.</h3><br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
