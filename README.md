@@ -37,3 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalk612&show_icons=true&locale=en" alt="harshalk612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalk612&" alt="harshalk612" /></p>
+
+<div align="center" dir="auto">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
+</div>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" style="max-width: 100%;"></a>
