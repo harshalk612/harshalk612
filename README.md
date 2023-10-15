@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshalkakaiya61@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://novoresume.com/editor/resume/48985900-51f3-11ed-b0fb-2338d664916c](https://drive.google.com/file/d/19cI_NyelDWNucDI56Rl4VLJZkld1AyzC/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19cI_NyelDWNucDI56Rl4VLJZkld1AyzC/view?usp=sharing])
 
 - ⚡ Fun fact **I sleep 26 hours in a day !! ;(**
 
