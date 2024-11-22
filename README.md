@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
 
 
-- 🔭 I’m currently working on **Housing Price Prediction: Advanced Regression**
+- 🔭 I’m currently working on **AI Recipe Recommendation System**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Computer Vision, Natural Language Processing**
 
 - 💬 Ask me about **Python, Statistics, Data Science**
 
-- 📫 How to reach me **harshalkakaiya61@gmail.com**
+- 📫 How to reach me **harshalpkakaiya@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19cI_NyelDWNucDI56Rl4VLJZkld1AyzC/view?usp=sharing])
 
