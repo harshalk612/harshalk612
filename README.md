@@ -49,7 +49,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kakaiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalkakaiya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kakaiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kakaiya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshalk.netlify.app-4A90D9?style=for-the-badge&logo=netlify&logoColor=white)](https://harshalk.netlify.app)
 [![Email](https://img.shields.io/badge/Email-harshalpkakaiya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalpkakaiya@gmail.com)
 
