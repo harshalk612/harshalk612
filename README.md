@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4A90D9&width=500&lines=Hi%2C+I'm+Harshal+Kakaiya!;Data+Scientist+%26+Analyst;Research+Assistant+I+%40+UoGuelph" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4A90D9&width=500&lines=Hi%2C+I'm+Harshal+Kakaiya!;Data+Scientist+%26+Analyst;Data+Science+Researcher+%40+UoGuelph" alt="Typing SVG"/>
 </a>
 
 ---
 
 ### 🧠 About Me
 
-- Research Assistant working with environmental data under [Dr. Adrian Correndo](https://adriancorrendo.github.io/01-index.html).
+- Data Science Researcher working with environmental data under [Dr. Adrian Correndo](https://adriancorrendo.github.io/01-index.html).
 - Recent Master of Data Science graduate @ University of Guelph.
 - Experience in machine learning and real world data projects.
 - Working on a province level environmental project supporting Ontario farmers. Resource: [Click Here!](https://www.uoguelph.ca/alliance/projects/legacy-database-phosphorus-potassium-corn-soybean)
