@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- Research Data Scientist working with environmental data under [Dr. Adrian Correndo](https://adriancorrendo.github.io/01-index.html).
+- Research Data Analyst working with environmental data under [Dr. Adrian Correndo](https://adriancorrendo.github.io/01-index.html).
 - Recent Master of Data Science graduate @ University of Guelph.
 - Experience in machine learning and real world data projects.
 - Working on a province level environmental project supporting Ontario farmers. Resource: [Click Here!](https://www.uoguelph.ca/alliance/projects/legacy-database-phosphorus-potassium-corn-soybean)
