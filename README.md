@@ -58,7 +58,7 @@
 ### 💼 Employer?
 
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1EexLzEQL1HN9BIduhQ35e8FpAK9SggyE/view?usp=sharing"> Download my Resume</a>
+> <a href="https://docs.google.com/document/d/1lL1dTCcgd46jQOMjS1E8HUkTx-INkkeR549qGy6hZ3g/edit?usp=sharing"> Download my Resume</a>
 
 
 <div align="center">
